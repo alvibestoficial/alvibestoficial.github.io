@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Historia de Microsoft</title>
-        <link>https://www.ejemplo.com</link>
+        <link>https://alvibestoficial.github.io</link>
         <description>Noticias y artículos sobre la historia de Microsoft.</description>
         <language>es</language>
         <pubDate>Sun, 26 Jan 2025 12:00:00 GMT</pubDate>
 
         <item>
             <title>Inicio</title>
-            <link>https://www.ejemplo.com#inicio</link>
+            <link>https://alvibestoficial.github.io#bienvenidos</link>
             <description>Explora la fascinante historia de Microsoft.</description>
             <pubDate>Sun, 26 Jan 2025 12:00:00 GMT</pubDate>
         </item>
