@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Historia de Microsoft</title>
+        <link>https://www.ejemplo.com</link>
+        <description>Noticias y artículos sobre la historia de Microsoft.</description>
+        <language>es</language>
+        <pubDate>Sun, 26 Jan 2025 12:00:00 GMT</pubDate>
+
+        <item>
+            <title>Inicio</title>
+            <link>https://www.ejemplo.com#inicio</link>
+            <description>Explora la fascinante historia de Microsoft.</description>
+            <pubDate>Sun, 26 Jan 2025 12:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Fundación</title>
+            <link>https://www.ejemplo.com#fundacion</link>
+            <description>Cómo Bill Gates y Paul Allen fundaron Microsoft en 1975.</description>
+            <pubDate>Sun, 26 Jan 2025 12:05:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Productos Clave</title>
+            <link>https://www.ejemplo.com#productos</link>
+            <description>Un repaso por los productos más influyentes de Microsoft.</description>
+            <pubDate>Sun, 26 Jan 2025 12:10:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Logros Clave</title>
+            <link>https://www.ejemplo.com#logros</link>
+            <description>Principales hitos y adquisiciones de Microsoft.</description>
+            <pubDate>Sun, 26 Jan 2025 12:15:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Contacto</title>
+            <link>https://www.ejemplo.com#contacto</link>
+            <description>Envíanos tus preguntas y comentarios sobre Microsoft.</description>
+            <pubDate>Sun, 26 Jan 2025 12:20:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
+
